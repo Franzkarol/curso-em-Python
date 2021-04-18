@@ -10,7 +10,7 @@ Input: Entrada de dados do usuário
 # idade = input("Qual a sua idade? ")
 
 # ano_nascimento = 2021 - idade  # não é possivel realizar uma conta entre um int e string
-# ano_nascimento = 2021 - int(idade)  #fazendo um quest ou seja converti uma string para um numero inteiro
+# ano_nascimento = 2021 - int(idade)  #fazendo um cast ou seja conversão uma string para um numero inteiro
 
 # print()  # print vazio ele pula uma linha
 # print(f'{nome} tem {idade} anos. '
@@ -27,7 +27,4 @@ numero_2 = int(numero_2)
 
 # print( numero_1 + numero_2 )
 print( numero_1 ** numero_2)
-
-
-
 
